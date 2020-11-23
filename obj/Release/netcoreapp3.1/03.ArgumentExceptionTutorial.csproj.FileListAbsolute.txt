@@ -1,0 +1,13 @@
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\bin\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.exe
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\bin\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.deps.json
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\bin\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.runtimeconfig.json
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\bin\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.runtimeconfig.dev.json
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\bin\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.dll
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\bin\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.pdb
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\obj\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.csprojAssemblyReference.cache
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\obj\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.AssemblyInfoInputs.cache
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\obj\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.AssemblyInfo.cs
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\obj\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.csproj.CoreCompileInputs.cache
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\obj\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.dll
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\obj\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.pdb
+D:\QA__\GitProjects\ExceptionHandling\03.ArgumentException\obj\Release\netcoreapp3.1\03.ArgumentExceptionTutorial.genruntimeconfig.cache
